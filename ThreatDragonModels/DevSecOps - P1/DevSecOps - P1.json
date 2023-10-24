@@ -2,15 +2,15 @@
   "version": "2.0.9",
   "summary": {
     "title": "DevSecOps - P1",
-    "owner": "Tobi",
-    "description": "test",
+    "owner": "",
+    "description": "",
     "id": 0
   },
   "detail": {
     "contributors": [],
     "diagrams": [],
     "diagramTop": 0,
-    "reviewer": "Same",
+    "reviewer": "",
     "threatTop": 0
   }
 }
